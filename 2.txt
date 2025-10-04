@@ -1,1 +1,1 @@
-MASTER: Este es el texto que solo quiero en la rama principal.
+V0.2: Este es el texto con la nueva funcionalidad.
